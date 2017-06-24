@@ -1,0 +1,108 @@
+--------------
+Root is A, without alpha-beta on file: test_tree1
+Visited B
+Visited ('D', 3)
+Visited ('E', 5)
+Visited C
+Visited F
+Visited I
+Visited ('K', 0)
+Visited ('L', 7)
+Visited ('J', 5)
+Visited G
+Visited ('M', 7)
+Visited ('N', 8)
+Visited ('H', 4)
+Utility value for root: 4
+--------------
+Root is A, running alpha-beta on file: test_tree1
+Visited B
+Visited ('D', 3)
+Visited ('E', 5)
+Visited C
+Visited F
+Visited I
+Visited ('K', 0)
+Visited ('J', 5)
+Visited G
+Visited ('M', 7)
+Visited ('H', 4)
+Utility value for root: 4
+--------------
+Root is A, without alpha-beta on file: test_tree2
+Visited B
+Visited D
+Visited ('H', 6)
+Visited ('I', 5)
+Visited E
+Visited ('J', 8)
+Visited ('K', 7)
+Visited C
+Visited F
+Visited ('L', 2)
+Visited ('M', 1)
+Visited G
+Visited ('N', 4)
+Visited ('O', 3)
+Utility value for root: 6
+--------------
+Root is A, running alpha-beta on file: test_tree2
+Visited B
+Visited D
+Visited ('H', 6)
+Visited ('I', 5)
+Visited E
+Visited ('J', 8)
+Visited C
+Visited F
+Visited ('L', 2)
+Visited ('M', 1)
+Utility value for root: 6
+--------------
+Root is A, without alpha-beta on file: test_tree3
+Visited B
+Visited E
+Visited ('L', 2)
+Visited ('M', 3)
+Visited F
+Visited ('N', 8)
+Visited ('O', 5)
+Visited G
+Visited ('P', 7)
+Visited ('Q', 6)
+Visited C
+Visited H
+Visited ('R', 0)
+Visited ('S', 1)
+Visited I
+Visited ('T', 5)
+Visited ('U', 2)
+Visited D
+Visited J
+Visited ('V', 8)
+Visited ('W', 4)
+Visited K
+Visited ('X', 10)
+Visited ('Y', 2)
+Utility value for root: 8
+--------------
+Root is A, running alpha-beta on file: test_tree3
+Visited B
+Visited E
+Visited ('L', 2)
+Visited ('M', 3)
+Visited F
+Visited ('N', 8)
+Visited G
+Visited ('P', 7)
+Visited C
+Visited H
+Visited ('R', 0)
+Visited ('S', 1)
+Visited D
+Visited J
+Visited ('V', 8)
+Visited ('W', 4)
+Visited K
+Visited ('X', 10)
+Utility value for root: 8
